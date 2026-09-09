@@ -59,7 +59,7 @@ sudo reboot
 | SDDM 主题 | `/usr/share/sddm/themes/arona/` |
 | 视频文件 | `/opt/arona-wallpaper/arona-video.mp4` |
 | 静态壁纸 | `/usr/share/backgrounds/kali/arona-wallpaper.png` |
-| 锁屏背景 | `/usr/share/backgrounds/kali/kali-cubes2.xml` (已修改) |
+| 锁屏背景 | `/usr/share/backgrounds/kali/kali-cubes2.xml` |
 | 视频屏保 | `/usr/share/applications/screensavers/arona-video.desktop` |
 | SDDM 配置 | `/etc/sddm.conf` |
 
